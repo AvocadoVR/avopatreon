@@ -1,7 +1,7 @@
 {
     "version": 1,
     "Master of the Guac": {
-        "color": "#2E8B57",
+        "color": "#004d00",
         "id": 0,
         "members": [
             "Melonᵗᵐ",
@@ -9,21 +9,21 @@
         ]
     },
     "Avocado Enthusiast": {
-        "color": "#9ACD32",
+        "color": "#6b8e23",
         "id": 1,
         "members": [
             "GUH"
         ]
     },
     "Guacamole Connoisseur": {
-        "color": "#4CAF50",
+        "color": "#4caf50",
         "id": 2,
         "members": [
             "GUH"
         ]
     },
     "Avocado Seedling": {
-        "color": "#8BC34A",
+        "color": "#a9d86e",
         "id": 3,
         "members": [
             "GUH"
